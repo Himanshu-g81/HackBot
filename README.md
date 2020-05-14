@@ -10,7 +10,7 @@
 
 3. Clone the repo : https://github.com/Himanshu-g81/cns_project.git <br/>
 4. Install requirement file using : python3.7 -m pip install -r requirements.txt <br/>
-5. You will not be able to use face authentication because I have saved my face as numpy array (proof in video). <br/>
+5. You will not be able to use face authentication because code contains logic for detecting my face only. <br/>
 6. For executing the bot directly, move to him_bot directory and execute bot using : python3.7 main.py <br/>
 
 
@@ -19,5 +19,5 @@
  
  Video tutorial of attack: https://www.youtube.com/watch?v=dwRFxYgTGsk
    
- For any issue or query : contact hgwalani81@gmail.com
+ For any issue or query kindly contact: hgwalani81@gmail.com
 
