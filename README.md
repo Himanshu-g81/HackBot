@@ -9,7 +9,7 @@
    1.5 sudo ln -s /usr/local/share/geckodriver /usr/bin/geckodriver <br/>
 
 3. Clone the repo : https://github.com/Himanshu-g81/cns_project.git <br/>
-4. Install all requirements: python3.7 -m pip install -r requirements.txt <br/>
+4. Install all requirements: python3.7 -m pip install -r requirement.txt <br/>
 5. You need to do some more work for using face detection else you could directly move to step 6.
    5.1 Install cv2 library of python3 <br/>
    5.2 execute faceDataCollection.py in him_bot directory using : python3 faceDataCollection.py <br/>
