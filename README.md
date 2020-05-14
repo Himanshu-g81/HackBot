@@ -14,6 +14,10 @@
 6. For executing the bot directly, move to him_bot directory and execute bot using : python3.7 main.py <br/>
 
 
-<h1> NOTE <h1>
-   Do not install Firefox as root. Kindly do not install firefox with root privilages. For doing that kindly make another user (wihtout sudo previlages) than install firefox there otherwise geckodriver will give runtime error. <br/>
+<h1> NOTE </h1>
+   Kindly do not install firefox with root privilages. For doing that kindly make another user (wihtout sudo previlages) than install firefox there otherwise geckodriver will give runtime error. And try to perform attack as the secondary user <br/>
+ 
+ Video tutorial of attack: https://www.youtube.com/watch?v=dwRFxYgTGsk
+   
+ For any issue or query : contact hgwalani81@gmail.com
 
