@@ -17,7 +17,7 @@
 <h2> NOTE </h2>
    Kindly do not install firefox with root privilages. For doing that kindly make another user (wihtout sudo previlages) than install firefox there otherwise geckodriver will give runtime error. And try to perform attack as the secondary user <br/>
  
- Video tutorial of attack: https://www.youtube.com/watch?v=dwRFxYgTGsk
- Tested on ubuntu 18.04
+ Video tutorial of attack: https://www.youtube.com/watch?v=dwRFxYgTGsk <br/>
+ Tested on ubuntu 18.04 <br/>
  For any issue or query kindly contact: hgwalani81@gmail.com
 
