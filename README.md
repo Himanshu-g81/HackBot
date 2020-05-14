@@ -11,11 +11,11 @@
 3. Clone the repo : https://github.com/Himanshu-g81/cns_project.git <br/>
 4. Install all requirements: python3.7 -m pip install -r requirements.txt <br/>
 5. You need to do some more work for using face detection else you could directly move to step 6.
-   5.1 Install cv2
-   5.2 execute faceDataCollection.py in him_bot directory using : python3 faceDataCollection.py
-   5.3 It will ask you for name and collect your face data.
-   5.4 To make your face as authenticator, in bot_begin file at line 120, 136 change name 'himanshu' -> 'your name'
-   5.5 execute bot_begin using command : python3 bot_begin.py
+   5.1 Install cv2 library of python3 <br/>
+   5.2 execute faceDataCollection.py in him_bot directory using : python3 faceDataCollection.py <br/>
+   5.3 It will ask you for name and collect your face data. <br/>
+   5.4 To make your face as authenticator, in bot_begin file at line 120, 136 change name 'himanshu' -> 'your name' <br/>
+   5.5 execute bot_begin using command : python3 bot_begin.py <br/>
 6. For executing the bot directly, move to him_bot directory and execute bot using : python3.7 main.py <br/>
 
 
