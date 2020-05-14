@@ -9,7 +9,7 @@
    1.5 sudo ln -s /usr/local/share/geckodriver /usr/bin/geckodriver <br/>
 
 3. Clone the repo : https://github.com/Himanshu-g81/cns_project.git <br/>
-4. Install requirement file using : python3.7 -m pip install -r requirements.txt <br/>
+4. Install all requirements: python3.7 -m pip install -r requirements.txt <br/>
 5. You will not be able to use face authentication because code contains logic for detecting my face only. <br/>
 6. For executing the bot directly, move to him_bot directory and execute bot using : python3.7 main.py <br/>
 
