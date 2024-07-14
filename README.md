@@ -1,4 +1,4 @@
-# cns_project
+# HackBot
 
 1. Install firefox version 66 or later.<br/>
 2. Install geckodriver. <br/>
